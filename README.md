@@ -1,5 +1,7 @@
 ## Welcome to my Github!
 
+I'm a junior at the University of Michigan majoring in computer science and robotics. 
+
 I am planning on adding more to this very soon. 
 <!--
 **vaibhavgurunathan/vaibhavgurunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
