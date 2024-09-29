@@ -2,7 +2,7 @@
 
 I'm a junior at the University of Michigan majoring in computer science and robotics. 
 
-I am planning on adding more to this very soon. 
+I am planning on adding more to this very soon. Right now, I just have some public repositories from hackathon teams I was a part of.
 <!--
 **vaibhavgurunathan/vaibhavgurunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
