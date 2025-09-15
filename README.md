@@ -3,6 +3,8 @@
 I'm a senior at the University of Michigan majoring in computer science and robotics. 
 
 I am planning on adding more to this very soon. I have other repos I need to clean up and make public.
+
+Check out my [linkedin](https://www.linkedin.com/in/vaibhavgurunathan/) and [website](http://vaibhavgurunathan.com/)
 <!--
 **vaibhavgurunathan/vaibhavgurunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
