@@ -26,7 +26,7 @@ What I'm Working On Now:
 
 I have a lot more information in my [website](http://vaibhavgurunathan.com/). 
 
-Also, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhavgurunathan/) and 
+Also, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhavgurunathan/) 
 
 <!--
 **vaibhavgurunathan/vaibhavgurunathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
