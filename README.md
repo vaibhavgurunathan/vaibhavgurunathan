@@ -11,7 +11,7 @@ Past Work Experiences:
 Things I do for fun: 
 1. Play basketball
 2. Watch sports - specifically baseball, basketball, and football (both college and nfl)
-3. Go on walks (if I'm home, I'll take my dog)
+3. Go on walks (usually at home with my dog)
 4. Recently picked up guitar
 5. Trying to get into reading   
 
