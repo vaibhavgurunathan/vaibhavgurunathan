@@ -11,8 +11,10 @@ Past Work Experiences:
 Things I do for fun: 
 1. Play basketball
      - Try to go to the gym or the park at least twice a week
-2. Watch sports - specifically baseball, basketball, and football (both college and nfl)
-3. Go on walks (usually at home with my dog)
+2. Watch sports
+     - Baseball, basketball, and football (both college and nfl)
+3. Go on walks
+     - Usually at home with my dog (Yellow Lab)
      - In Michigan, I like going late at night because I always see deer by the pond near the School of Music or near Northwood
 4. Reading - Prefer nonfiction books 
      - Some books I enjoyed include When Breath Becomes Air, American Kingpin, Bad Blood
