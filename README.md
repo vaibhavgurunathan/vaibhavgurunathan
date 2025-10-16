@@ -10,10 +10,14 @@ Past Work Experiences:
 
 Things I do for fun: 
 1. Play basketball
+     - Try to go to the gym or the park at least twice a week
 2. Watch sports - specifically baseball, basketball, and football (both college and nfl)
 3. Go on walks (usually at home with my dog)
-4. Recently picked up guitar
-5. Trying to get into reading   
+     - In Michigan, I like going late at night because I always see deer by the pond near the School of Music or near Northwood
+4. Reading - Prefer nonfiction books 
+     - Some books I enjoyed include When Breath Becomes Air, American Kingpin, Bad Blood
+5. Recently picked up guitar
+      - Claiming recently even though its been like four years since it is a good excuse for not being as good as I would like
 
 
 What I'm Working On Now: 
@@ -23,6 +27,7 @@ What I'm Working On Now:
         - Computer vision to track players to understand how they move on the court
    - Generate a higher quality model
 2. Project for my AI for Compilers Class
+   - Trying some cool Mixture of Experts Project (look at my repo for more details)
 
 
 I have a lot more information in my [website](http://vaibhavgurunathan.com/). 
