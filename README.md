@@ -23,13 +23,8 @@ Things I do for fun:
 
 
 What I'm Working On Now: 
-1. Model to determine player-team fit for NBA players using vector embeddings
-   - Provide more information about each NBA players:
-        - Details about NBA player measurements
-        - Computer vision to track players to understand how they move on the court
-   - Generate a higher quality model
-2. Project for my AI for Compilers Class
-   - Trying some cool Mixture of Experts Project (look at my repo for more details)
+1. Some Cool AI Agents Stuff to Automate
+     - Will hopefully have this out by the new year. 
 
 
 I have a lot more information in my [website](http://vaibhavgurunathan.com/). 
